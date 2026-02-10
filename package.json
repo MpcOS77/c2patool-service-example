@@ -17,7 +17,7 @@
     "express-fileupload": "^1.1.9",
     "lodash": "^4.17.19",
     "morgan": "^1.9.1",
-    "node-fetch": "2.6.7",
+    "node-fetch": "2.7.0",
     "path": "0.12.7",
     "util": "0.12.5"
   },
